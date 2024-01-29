@@ -6,6 +6,6 @@
 ## Examples
 
 Image with shader
-![Imagem com shader](/md/w-shader.png "San Juan Mountains")
+![Imagem com shader](md/w-shader.png "San Juan Mountains")
 Image without shader
-![Imagem sem shader](/md/wout-shader.png "San Juan Mountains")
+![Imagem sem shader](md/wout-shader.png "San Juan Mountains")
